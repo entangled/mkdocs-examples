@@ -1,0 +1,19 @@
+version = "2.0"
+watch_list = ["docs/**/*.md"]
+hooks = ["build"]
+
+# For more options, check entangled.github.io
+
+# Enable integration with Make
+# hooks = ["build"]
+
+# Add a language
+# [[languages]]
+# name = Java
+# identifiers = ["java"]
+# comment = { open = "/*", close = "*/" }
+
+[[languages]]
+name = "Gnuplot"
+identifiers = ["gnuplot"]
+comment = { open = "#" }

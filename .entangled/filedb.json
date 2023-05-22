@@ -1,0 +1,101 @@
+{
+  "version": "2.0.0a4",
+  "files": [
+    {
+      "path": "docs/index.md",
+      "deps": null,
+      "modified": "2023-05-22T14:03:35.942048",
+      "hexdigest": "da327adcc6759883b14b41ee2e644d2b6d1c5750dcd9daed4a280b74eabece88"
+    },
+    {
+      "path": "docs/l-systems.md",
+      "deps": null,
+      "modified": "2023-05-22T15:16:01.894474",
+      "hexdigest": "21d7e3cc2ed52f82a298240c9bdc8b96fc938df4a1bbece6bfc3e0ec54260498"
+    },
+    {
+      "path": "demo/lsystem.py",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T15:13:48.451671",
+      "hexdigest": "a5ac033edcfda6c11cc1629bfecda066cf087d0382362a4b44cd4c836504a15b"
+    },
+    {
+      "path": "demo/turtle.py",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T15:12:07.077060",
+      "hexdigest": "c4baea51ba6e1bf919555be3568add0837b83b7443e715872a2d9d0cc99fe6c3"
+    },
+    {
+      "path": "demo/__init__.py",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T14:03:35.945048",
+      "hexdigest": "330370e0daaf386ff9b5a9e947cfdedac3ec64dc830ae7fbdc5daf3d65a2bdc1"
+    },
+    {
+      "path": "demo/plot_fern.gp",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T14:03:35.946048",
+      "hexdigest": "b3cc3a3618404a488dfeb2b032e40526c6df3a5c087d3dd5665de9505462c569"
+    },
+    {
+      "path": "demo/plot_dragon.gp",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T14:03:35.946048",
+      "hexdigest": "e3fb0d4d76ec8aac1a93c8124b4e9944b48ac33ef18a6841669d6462f7284660"
+    },
+    {
+      "path": "demo/sierspinsky_table.py",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T14:03:35.946048",
+      "hexdigest": "f68ea9135033014784f874d6fac124fe59297ef8a1abcf46248935ccb653681b"
+    },
+    {
+      "path": "demo/plot_sierspinsky.gp",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T14:03:35.946048",
+      "hexdigest": "24b74a29be64f60bd7cf8c40ab7c2d9311c176ab36999302274c9fff1ae8fee1"
+    },
+    {
+      "path": "demo/preamble.gp",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T14:03:35.946048",
+      "hexdigest": "bce89e91a9643e4728a1a1f166d3aabc3be10b33dbc193d48c39ee22ae2013a3"
+    },
+    {
+      "path": "demo/plot_koch.gp",
+      "deps": [
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-22T15:16:01.163470",
+      "hexdigest": "97c4a36855a7ff081eb08910d493beb15a5124677deab0f639e6353c7afd4390"
+    }
+  ],
+  "source": [],
+  "target": [
+    "demo/plot_fern.gp",
+    "demo/plot_sierspinsky.gp",
+    "demo/__init__.py",
+    "demo/sierspinsky_table.py",
+    "demo/plot_koch.gp",
+    "demo/plot_dragon.gp",
+    "demo/lsystem.py",
+    "demo/preamble.gp",
+    "demo/turtle.py"
+  ]
+}
