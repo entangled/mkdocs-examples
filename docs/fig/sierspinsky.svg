@@ -53,9 +53,9 @@
 <g fill="none" color="white" stroke="rgb(255, 255, 255)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(255, 192, 192)'  d='M44.90,247.33 L284.23,247.33 L164.57,40.07 L44.90,247.33  '/></g>
+	<path stroke='rgb(255,  20, 147)'  d='M44.90,247.33 L284.23,247.33 L164.57,40.07 L44.90,247.33  '/></g>
 	</g>
-<g fill="none" color="white" stroke="rgb(255, 192, 192)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+<g fill="none" color="white" stroke="rgb(255,  20, 147)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
@@ -75,10 +75,10 @@
 <g fill="none" color="white" stroke="rgb(255, 255, 255)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(255, 192, 192)'  d='M378.23,247.33 L497.90,247.33 L438.06,143.70 L557.73,143.70 L497.90,247.33 L617.56,247.33 L557.73,143.70 L497.90,40.07
+	<path stroke='rgb(255,  20, 147)'  d='M378.23,247.33 L497.90,247.33 L438.06,143.70 L557.73,143.70 L497.90,247.33 L617.56,247.33 L557.73,143.70 L497.90,40.07
 		L438.06,143.70 L378.23,247.33  '/></g>
 	</g>
-<g fill="none" color="white" stroke="rgb(255, 192, 192)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+<g fill="none" color="white" stroke="rgb(255,  20, 147)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
@@ -98,12 +98,12 @@
 <g fill="none" color="white" stroke="rgb(255, 255, 255)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(255, 192, 192)'  d='M711.56,247.33 L771.39,247.33 L741.48,195.51 L801.31,195.51 L771.39,247.33 L831.23,247.33 L801.31,195.51 L771.39,143.70
+	<path stroke='rgb(255,  20, 147)'  d='M711.56,247.33 L771.39,247.33 L741.48,195.51 L801.31,195.51 L771.39,247.33 L831.23,247.33 L801.31,195.51 L771.39,143.70
 		L831.23,143.70 L801.31,91.88 L861.14,91.88 L831.23,143.70 L891.06,143.70 L861.14,195.51 L831.23,247.33 L891.06,247.33
 		L861.14,195.51 L920.97,195.51 L891.06,247.33 L950.89,247.33 L920.97,195.51 L891.06,143.70 L861.14,91.88 L831.23,40.07
 		L801.31,91.88 L771.39,143.70 L741.48,195.51 L711.56,247.33  '/></g>
 	</g>
-<g fill="none" color="white" stroke="rgb(255, 192, 192)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+<g fill="none" color="white" stroke="rgb(255,  20, 147)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
@@ -123,7 +123,7 @@
 <g fill="none" color="white" stroke="rgb(255, 255, 255)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(255, 192, 192)'  d='M44.90,537.33 L74.82,537.33 L59.86,511.42 L89.78,511.42 L74.82,537.33 L104.73,537.33 L89.78,511.42 L74.82,485.51
+	<path stroke='rgb(255,  20, 147)'  d='M44.90,537.33 L74.82,537.33 L59.86,511.42 L89.78,511.42 L74.82,537.33 L104.73,537.33 L89.78,511.42 L74.82,485.51
 		L104.73,485.51 L89.78,459.60 L119.69,459.60 L104.73,485.51 L134.65,485.51 L119.69,511.42 L104.73,537.33 L134.65,537.33
 		L119.69,511.42 L149.61,511.42 L134.65,537.33 L164.57,537.33 L149.61,511.42 L134.65,485.51 L119.69,459.60 L104.73,433.69
 		L134.65,433.69 L119.69,407.78 L149.61,407.78 L134.65,433.69 L164.57,433.69 L149.61,407.78 L134.65,381.88 L164.57,381.88
@@ -135,7 +135,7 @@
 		L179.52,355.97 L164.57,330.06 L149.61,355.97 L134.65,381.88 L119.69,407.78 L104.73,433.69 L89.78,459.60 L74.82,485.51
 		L59.86,511.42 L44.90,537.33  '/></g>
 	</g>
-<g fill="none" color="white" stroke="rgb(255, 192, 192)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+<g fill="none" color="white" stroke="rgb(255,  20, 147)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
@@ -155,7 +155,7 @@
 <g fill="none" color="white" stroke="rgb(255, 255, 255)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(255, 192, 192)'  d='M378.23,537.33 L393.19,537.33 L385.71,524.37 L400.67,524.37 L393.19,537.33 L408.15,537.33 L400.67,524.37 L393.19,511.42
+	<path stroke='rgb(255,  20, 147)'  d='M378.23,537.33 L393.19,537.33 L385.71,524.37 L400.67,524.37 L393.19,537.33 L408.15,537.33 L400.67,524.37 L393.19,511.42
 		L408.15,511.42 L400.67,498.46 L415.63,498.46 L408.15,511.42 L423.11,511.42 L415.63,524.37 L408.15,537.33 L423.11,537.33
 		L415.63,524.37 L430.58,524.37 L423.11,537.33 L438.06,537.33 L430.58,524.37 L423.11,511.42 L415.63,498.46 L408.15,485.51
 		L423.11,485.51 L415.63,472.56 L430.58,472.56 L423.11,485.51 L438.06,485.51 L430.58,472.56 L423.11,459.60 L438.06,459.60
@@ -187,7 +187,7 @@
 		L460.50,394.83 L453.02,407.78 L445.54,420.74 L438.06,433.69 L430.58,446.65 L423.11,459.60 L415.63,472.56 L408.15,485.51
 		L400.67,498.46 L393.19,511.42 L385.71,524.37 L378.23,537.33  '/></g>
 	</g>
-<g fill="none" color="white" stroke="rgb(255, 192, 192)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+<g fill="none" color="white" stroke="rgb(255,  20, 147)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
@@ -207,7 +207,7 @@
 <g fill="none" color="white" stroke="rgb(255, 255, 255)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(255, 192, 192)'  d='M711.56,537.33 L719.04,537.33 L715.30,530.85 L722.78,530.85 L719.04,537.33 L726.52,537.33 L722.78,530.85 L719.04,524.37
+	<path stroke='rgb(255,  20, 147)'  d='M711.56,537.33 L719.04,537.33 L715.30,530.85 L722.78,530.85 L719.04,537.33 L726.52,537.33 L722.78,530.85 L719.04,524.37
 		L726.52,524.37 L722.78,517.90 L730.26,517.90 L726.52,524.37 L734.00,524.37 L730.26,530.85 L726.52,537.33 L734.00,537.33
 		L730.26,530.85 L737.74,530.85 L734.00,537.33 L741.48,537.33 L737.74,530.85 L734.00,524.37 L730.26,517.90 L726.52,511.42
 		L734.00,511.42 L730.26,504.94 L737.74,504.94 L734.00,511.42 L741.48,511.42 L737.74,504.94 L734.00,498.46 L741.48,498.46
@@ -300,7 +300,7 @@
 		L745.22,479.03 L741.48,485.51 L737.74,491.99 L734.00,498.46 L730.26,504.94 L726.52,511.42 L722.78,517.90 L719.04,524.37
 		L715.30,530.85 L711.56,537.33  '/></g>
 	</g>
-<g fill="none" color="white" stroke="rgb(255, 192, 192)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+<g fill="none" color="white" stroke="rgb(255,  20, 147)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>

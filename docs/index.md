@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Entangled / MkDocs Showcase
+Here you may find several examples of using Entangled and MkDocs together to generate beautiful notes, technical reports or tutorials.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## [L-Systems in Python](l-systems.md)
 
-## Commands
+!!! abstract
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+    - :snake: Learn about generators in Python: sure you've heard about `yield`, now `yield from` is guaranteed to :exploding_head: blow your mind!
+    - :knot: Learn how to generate tables and figures in Entangled: every output on this page is computed directly from the code you see.
+    - :abacus: Learn how to generate fractal trees, they're pretty!
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

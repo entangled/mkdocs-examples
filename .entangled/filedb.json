@@ -4,14 +4,14 @@
     {
       "path": "docs/index.md",
       "deps": null,
-      "modified": "2023-05-22T14:03:35.942048",
-      "hexdigest": "da327adcc6759883b14b41ee2e644d2b6d1c5750dcd9daed4a280b74eabece88"
+      "modified": "2023-05-23T15:32:07.091779",
+      "hexdigest": "a854448c87f7e4ede801902d52c8657fc70480879ca18b383fe7085fc2d9c1f7"
     },
     {
       "path": "docs/l-systems.md",
       "deps": null,
-      "modified": "2023-05-22T15:16:01.894474",
-      "hexdigest": "21d7e3cc2ed52f82a298240c9bdc8b96fc938df4a1bbece6bfc3e0ec54260498"
+      "modified": "2023-05-23T14:20:45.931263",
+      "hexdigest": "222aeae9ec47c4e13449282de0755d34c77b43b6b722293aac88ed5dd19c6d2b"
     },
     {
       "path": "demo/lsystem.py",
@@ -74,8 +74,8 @@
       "deps": [
         "docs/l-systems.md"
       ],
-      "modified": "2023-05-22T14:03:35.946048",
-      "hexdigest": "bce89e91a9643e4728a1a1f166d3aabc3be10b33dbc193d48c39ee22ae2013a3"
+      "modified": "2023-05-23T14:20:43.171248",
+      "hexdigest": "1c297a8c1453e2d811bd16a0e276a8548530f651197d889f8ef7fedece3b9ae8"
     },
     {
       "path": "demo/plot_koch.gp",
@@ -84,18 +84,52 @@
       ],
       "modified": "2023-05-22T15:16:01.163470",
       "hexdigest": "97c4a36855a7ff081eb08910d493beb15a5124677deab0f639e6353c7afd4390"
+    },
+    {
+      "path": "docs/buddhabrot.md",
+      "deps": null,
+      "modified": "2023-05-28T15:15:02.757658",
+      "hexdigest": "8d310e3af80255d53a51e5541d22dfad75a26726d6fbc8f46084994c2c933f24"
+    },
+    {
+      "path": "demo/buddhabrot/src/main.rs",
+      "deps": [
+        "docs/buddhabrot.md"
+      ],
+      "modified": "2023-05-28T15:15:02.525656",
+      "hexdigest": "2cbfb00caba92dcdf1231ca7303fd01622840816538e2f95fe00d4e01afe05f2"
+    },
+    {
+      "path": "demo/plot_buddha_iters.gp",
+      "deps": [
+        "docs/buddhabrot.md"
+      ],
+      "modified": "2023-05-26T18:30:37.194161",
+      "hexdigest": "b42bfe2aa0969302279faf95ab7a2f44a98f9a2e8539684622fcb71aa8f239ba"
+    },
+    {
+      "path": "Makefile",
+      "deps": [
+        "docs/buddhabrot.md",
+        "docs/l-systems.md"
+      ],
+      "modified": "2023-05-26T18:30:37.194161",
+      "hexdigest": "880e81bffe48e5ac23ee21c7fe644856443d407223b05acbcbd2b8a217a2998c"
     }
   ],
   "source": [],
   "target": [
-    "demo/plot_fern.gp",
-    "demo/plot_sierspinsky.gp",
-    "demo/__init__.py",
-    "demo/sierspinsky_table.py",
-    "demo/plot_koch.gp",
-    "demo/plot_dragon.gp",
     "demo/lsystem.py",
     "demo/preamble.gp",
-    "demo/turtle.py"
+    "demo/turtle.py",
+    "demo/buddhabrot/src/main.rs",
+    "Makefile",
+    "demo/plot_sierspinsky.gp",
+    "demo/sierspinsky_table.py",
+    "demo/__init__.py",
+    "demo/plot_buddha_iters.gp",
+    "demo/plot_fern.gp",
+    "demo/plot_dragon.gp",
+    "demo/plot_koch.gp"
   ]
 }

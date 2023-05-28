@@ -53,7 +53,7 @@
 <g fill="none" color="white" stroke="rgb(255, 255, 255)" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="1.00" stroke-linecap="butt" stroke-linejoin="miter">
-	<path stroke='rgb(255, 192, 192)'  d='M645.09,634.36 L653.34,634.36 L656.25,631.44 L656.25,623.20 L653.34,620.29 L645.09,620.29 L642.18,617.37 L642.18,609.13
+	<path stroke='rgb(255,  20, 147)'  d='M645.09,634.36 L653.34,634.36 L656.25,631.44 L656.25,623.20 L653.34,620.29 L645.09,620.29 L642.18,617.37 L642.18,609.13
 		L639.27,606.21 L631.02,606.21 L628.11,609.13 L628.11,617.37 L625.19,620.29 L616.95,620.29 L614.04,617.37 L614.04,609.13
 		L611.12,606.21 L602.88,606.21 L599.96,609.13 L599.96,617.37 L602.88,620.29 L611.12,620.29 L614.04,623.20 L614.04,631.44
 		L611.12,634.36 L602.88,634.36 L599.96,637.27 L599.96,645.51 L597.05,648.43 L588.81,648.43 L585.89,645.51 L585.89,637.27
@@ -567,7 +567,7 @@
 		L217.11,184.06 L208.86,184.06 L205.95,186.97 L205.95,195.21 L203.04,198.13 L194.79,198.13 L191.88,195.21 L191.88,186.97
 		 '/></g>
 	</g>
-<g fill="none" color="white" stroke="rgb(255, 192, 192)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
+<g fill="none" color="white" stroke="rgb(255,  20, 147)" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
 <g fill="none" color="black" stroke="currentColor" stroke-width="2.00" stroke-linecap="butt" stroke-linejoin="miter">
 </g>
