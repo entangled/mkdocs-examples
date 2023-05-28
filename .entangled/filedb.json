@@ -88,24 +88,24 @@
     {
       "path": "docs/buddhabrot.md",
       "deps": null,
-      "modified": "2023-05-28T15:15:02.757658",
-      "hexdigest": "8d310e3af80255d53a51e5541d22dfad75a26726d6fbc8f46084994c2c933f24"
+      "modified": "2023-05-29T01:50:38.977583",
+      "hexdigest": "65aa1364c190cb09c469e983704d8ac4ab0297cd732689d89aca6941e6e2e4d3"
     },
     {
       "path": "demo/buddhabrot/src/main.rs",
       "deps": [
         "docs/buddhabrot.md"
       ],
-      "modified": "2023-05-28T15:15:02.525656",
-      "hexdigest": "2cbfb00caba92dcdf1231ca7303fd01622840816538e2f95fe00d4e01afe05f2"
+      "modified": "2023-05-29T01:50:39.566586",
+      "hexdigest": "fbddb7834ef7671fd2d930a4016c135aaf206970707b4b91f8935238b2aecf09"
     },
     {
       "path": "demo/plot_buddha_iters.gp",
       "deps": [
         "docs/buddhabrot.md"
       ],
-      "modified": "2023-05-26T18:30:37.194161",
-      "hexdigest": "b42bfe2aa0969302279faf95ab7a2f44a98f9a2e8539684622fcb71aa8f239ba"
+      "modified": "2023-05-28T17:02:16.349264",
+      "hexdigest": "4460f512028417bdcd168be5aad0cd6f3905d10e16de50f4e407e815f85dbe02"
     },
     {
       "path": "Makefile",
@@ -113,23 +113,32 @@
         "docs/buddhabrot.md",
         "docs/l-systems.md"
       ],
-      "modified": "2023-05-26T18:30:37.194161",
-      "hexdigest": "880e81bffe48e5ac23ee21c7fe644856443d407223b05acbcbd2b8a217a2998c"
+      "modified": "2023-05-29T01:44:55.947313",
+      "hexdigest": "9f144ce7bb9a7a63ff9eb98095707403724b10c072e19891a32b6b1e7a8074a1"
+    },
+    {
+      "path": "demo/plot_buddha_subdiv.gp",
+      "deps": [
+        "docs/buddhabrot.md"
+      ],
+      "modified": "2023-05-28T20:35:41.652429",
+      "hexdigest": "ad037753a22a98a282717cc458476b1c2b8452e032a10b4275f9ba74448db1e6"
     }
   ],
   "source": [],
   "target": [
-    "demo/lsystem.py",
     "demo/preamble.gp",
-    "demo/turtle.py",
-    "demo/buddhabrot/src/main.rs",
-    "Makefile",
-    "demo/plot_sierspinsky.gp",
-    "demo/sierspinsky_table.py",
-    "demo/__init__.py",
-    "demo/plot_buddha_iters.gp",
-    "demo/plot_fern.gp",
     "demo/plot_dragon.gp",
-    "demo/plot_koch.gp"
+    "demo/plot_koch.gp",
+    "demo/sierspinsky_table.py",
+    "demo/plot_fern.gp",
+    "demo/lsystem.py",
+    "demo/__init__.py",
+    "Makefile",
+    "demo/turtle.py",
+    "demo/plot_buddha_subdiv.gp",
+    "demo/buddhabrot/src/main.rs",
+    "demo/plot_sierspinsky.gp",
+    "demo/plot_buddha_iters.gp"
   ]
 }

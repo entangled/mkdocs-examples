@@ -36,16 +36,42 @@ buddhabrot := $(target_path)/buddhabrot
 -include $(target_path)/buddhabrot.d
 $(buddhabrot):
 > cargo build $(cargo_args)
+# ~/~ end
+# ~/~ begin <<docs/buddhabrot.md#build>>[1]
+data/buddha_%.pgm: | $(buddhabrot)
+> @mkdir -p $(@D)
+> $(buddhabrot) -W 4096 -H 4096 -s 10 -m $(*F) --pgm $@
 
-data/buddha%.dat: $(buddhabrot)
+docs/fig/buddha_full.jpg: data/buddha_1000000.pgm data/buddha_10000.pgm data/buddha_100.pgm
+> @mkdir -p $(@D)
+> convert \( data/buddha_10000.pgm -level 15,45% \) \
+          \( data/buddha_1000000.pgm -level 10,60% \) \
+          \( data/buddha_100.pgm -level 20,65% \) \
+          -set colorspace sRGB -combine -modulate 80,50,80 \
+          -rotate -90 $@
+
+docs/fig/buddha_render.jpg: docs/fig/buddha_full.jpg
+> convert 'docs/fig/buddha_full.jpg[1920x1200+1200+1900]' $@
+# ~/~ end
+# ~/~ begin <<docs/buddhabrot.md#build>>[2]
+data/buddha%.dat: | $(buddhabrot)
 > @mkdir -p $(@D)
 > $(buddhabrot) -W 1024 -H 1024 -m $(*F) -s 10 --gnuplot $@
 
 docs/fig/buddha_iterations.svg: \
     demo/plot_buddha_iters.gp \
+    data/buddha0000100.dat \
     data/buddha0010000.dat \
-    data/buddha0100000.dat \
     data/buddha1000000.dat
+> @mkdir -p $(@D)
+> gnuplot $< > $@
+# ~/~ end
+# ~/~ begin <<docs/buddhabrot.md#build>>[3]
+data/buddha_precom.dat: | $(buddhabrot)
+> @mkdir -p $(@D)
+> $(buddhabrot) -W 1024 -H 1024 -s 10 -m 100000 --mset $@
+
+docs/fig/buddha_subdiv.svg: demo/plot_buddha_subdiv.gp data/buddha_precom.dat
 > @mkdir -p $(@D)
 > gnuplot $< > $@
 # ~/~ end
