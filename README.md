@@ -1,5 +1,7 @@
-# My Awesome Project
+# Entangled Examples for MkDocs
+
 [![Entangled badge](https://img.shields.io/badge/entangled-Use%20the%20source!-%2300aeff)](https://entangled.github.io/)
+[![Deploy Pages](https://github.com/entangled/mkdocs-examples/actions/workflows/deploy-pages.yaml/badge.svg)](https://github.com/entangled/mkdocs-examples/actions/workflows/deploy-pages.yaml)
 
 Here you find several examples of using Entangled with MkDocs.
 
