@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: My Awesome Project
+site_name: Entangled Examples for MkDocs
 
 watch:
   - docs
