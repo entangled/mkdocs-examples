@@ -1,5 +1,11 @@
 # The Buddhabrot Fractal in Rust
 
+!!! abstract
+
+    - :crab: Parallel computing using Rust and Rayon with two different methods: parallel iterators and join.
+    - :knot: Use Makefiles to your advantage to manage more expensive computations.
+    - :abacus: Create images that are out of this world!
+
 You may have heard of the [Mandelbrot fractal](https://en.wikipedia.org/wiki/Mandelbrot_set). It is a nice exercise to render the Mandelbrot fractal using your favourite language. The idea is to iterate the formula
 
 $$z_{n+1} = z_n^2 + c,$$

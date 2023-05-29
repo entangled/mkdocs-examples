@@ -1,6 +1,8 @@
 version = "2.0"
 watch_list = ["docs/**/*.md"]
-hooks = ["build"]
+
+# disable for CI
+# hooks = ["build"]  
 
 # For more options, check entangled.github.io
 

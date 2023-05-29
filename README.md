@@ -1,11 +1,10 @@
 # My Awesome Project
 [![Entangled badge](https://img.shields.io/badge/entangled-Use%20the%20source!-%2300aeff)](https://entangled.github.io/)
 
-!!! note
-
-    Please expand this Readme with your project details
+Here you find several examples of using Entangled with MkDocs.
 
 ## Literate Programming
+
 This project is written using literate programming with [Entangled](https://entangled.github.io/). This means that some or all of its source code is contained in Markdown code blocks. These code blocks are kept synchronized with a compilable and debuggable version of the program. When you edit either the Markdown or the generated source files, make sure you have the Entangled daemon running:
 
 ```shell
@@ -17,6 +16,14 @@ Te generate a rendered version of the Markdown, you may run
 ```shell
 mkdocs build
 ```
+
+or if you want to do both:
+
+```shell
+mkdocs serve
+```
+
+Entangled will run inside the MkDocs event loop.
 
 <details><summary>How to write code using Entangled</summary>
 
@@ -82,5 +89,5 @@ mkdocs build
 ```
 
 ## License
-This template is licensed under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
+This template is licensed under the [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0). See `LICENSE`.

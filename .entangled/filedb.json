@@ -4,8 +4,8 @@
     {
       "path": "docs/index.md",
       "deps": null,
-      "modified": "2023-05-23T15:32:07.091779",
-      "hexdigest": "a854448c87f7e4ede801902d52c8657fc70480879ca18b383fe7085fc2d9c1f7"
+      "modified": "2023-05-29T09:32:56.331575",
+      "hexdigest": "35bf28137b02a042299aaebb61061571ee92b8c15369d55d8671789a65e94ff7"
     },
     {
       "path": "docs/l-systems.md",
@@ -88,8 +88,8 @@
     {
       "path": "docs/buddhabrot.md",
       "deps": null,
-      "modified": "2023-05-29T01:50:38.977583",
-      "hexdigest": "65aa1364c190cb09c469e983704d8ac4ab0297cd732689d89aca6941e6e2e4d3"
+      "modified": "2023-05-29T02:07:31.064338",
+      "hexdigest": "bbcc2ed136ed631136a415b62389a1db5e5a266558aefac11b6b79c5873bc341"
     },
     {
       "path": "demo/buddhabrot/src/main.rs",
@@ -127,18 +127,18 @@
   ],
   "source": [],
   "target": [
-    "demo/preamble.gp",
-    "demo/plot_dragon.gp",
-    "demo/plot_koch.gp",
     "demo/sierspinsky_table.py",
     "demo/plot_fern.gp",
+    "demo/plot_dragon.gp",
     "demo/lsystem.py",
-    "demo/__init__.py",
-    "Makefile",
-    "demo/turtle.py",
     "demo/plot_buddha_subdiv.gp",
+    "Makefile",
     "demo/buddhabrot/src/main.rs",
-    "demo/plot_sierspinsky.gp",
-    "demo/plot_buddha_iters.gp"
+    "demo/plot_koch.gp",
+    "demo/preamble.gp",
+    "demo/plot_buddha_iters.gp",
+    "demo/__init__.py",
+    "demo/turtle.py",
+    "demo/plot_sierspinsky.gp"
   ]
 }
